@@ -1,0 +1,1 @@
+A Linked List structure made in C. Included are functions to manipulate the list, like add, remove, search, print, etc.
